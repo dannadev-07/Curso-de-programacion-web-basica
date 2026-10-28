@@ -20,5 +20,8 @@
   "homepage": "https://github.com/dannadev-07/Curso-de-programacion-web-basica#readme",
   "devDependencies": {
     "vite": "^8.3.4"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.118.0"
   }
 }
